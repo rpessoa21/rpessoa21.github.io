@@ -45,5 +45,5 @@ jQuery(document).ready(function($) {
 		$('#destaque').css('opacity',(scrolled*0.001));
 	}
 
-	$(document).foundation();
+	// $(document).foundation();
 });
