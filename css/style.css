@@ -421,6 +421,12 @@ article.jobs ul li,
 article.contato ul li {
   position: relative;
 }
+@media (max-width: 768px) {
+  article.jobs ul li,
+  article.contato ul li {
+    margin-bottom: 12px;
+  }
+}
 article.jobs ul li .overlay,
 article.contato ul li .overlay,
 article.jobs ul li figcaption,
@@ -437,6 +443,17 @@ article.contato ul li figcaption {
   -ms-transition: all 0.7s cubic-bezier(0.165, 0.84, 0.44, 1);
   -o-transition: all 0.7s cubic-bezier(0.165, 0.84, 0.44, 1);
   transition: all 0.7s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+@media (max-width: 768px) {
+  article.jobs ul li .overlay,
+  article.contato ul li .overlay,
+  article.jobs ul li figcaption,
+  article.contato ul li figcaption {
+    bottom: 0;
+    height: 30%;
+    opacity: 1;
+    top: initial;
+  }
 }
 article.jobs ul li figcaption,
 article.contato ul li figcaption {
@@ -477,6 +494,11 @@ article.contato ul li figcaption .max-row .col,
 article.jobs ul li figcaption .row .col,
 article.contato ul li figcaption .row .col {
   vertical-align: middle;
+}
+article.jobs ul li a,
+article.contato ul li a {
+  height: 100%;
+  width: 100%;
 }
 article.jobs ul li a:hover figcaption,
 article.contato ul li a:hover figcaption,
@@ -786,19 +808,35 @@ article.ver-jobs {
   margin-bottom: 220px;
   text-align: center;
 }
-article.ver-jobs .clique {
-  font-size: 40px;
-  line-height: 0.9;
-  text-indent: -50px;
+@media (max-width: 640px) {
+  article.ver-jobs {
+    font-size: 24px;
+  }
+}
+@media (min-width: 640px) {
+  article.ver-jobs .clique {
+    font-size: 40px;
+    line-height: 0.9;
+    text-indent: -50px;
+  }
 }
 article.ver-jobs .ver,
 article.ver-jobs .trabalhos {
   color: #bfe60c;
-  font: italic 68px Georgia, 'Times New Roman', Times, serif;
+}
+@media (min-width: 640px) {
+  article.ver-jobs .ver,
+  article.ver-jobs .trabalhos {
+    font: italic 68px Georgia, 'Times New Roman', Times, serif;
+  }
 }
 article.ver-jobs .ver {
   line-height: 0.8;
-  text-indent: 20px;
+}
+@media (min-width: 640px) {
+  article.ver-jobs .ver {
+    text-indent: 20px;
+  }
 }
 .lista-jobs ul li:first-child {
   background: url("../img/jobs/lista/leogenn.jpg") no-repeat;
@@ -1054,8 +1092,11 @@ article .detalhe img {
   width: initial;
 }
 article .link-externo {
-  font: 22px 'Muli', Tahoma, sans-serif;
+  font: 20px 'Muli', Tahoma, sans-serif;
   text-align: right;
+}
+article .link-externo a {
+  font: 19px 'Montserrat', Verdana, sans-serif;
 }
 article .link-externo a:hover {
   color: #bfe60c;
@@ -1264,22 +1305,37 @@ article.contato h1:before {
   margin-bottom: 60px;
 }
 article.contato .serifa {
-  font: italic 36px Georgia, 'Times New Roman', Times, serif;
+  font: italic 26px Georgia, 'Times New Roman', Times, serif;
   margin-left: auto;
   margin-right: auto;
   max-width: 680px;
   margin-bottom: 60px;
 }
+@media (min-width: 640px) {
+  article.contato .serifa {
+    font: italic 36px Georgia, 'Times New Roman', Times, serif;
+  }
+}
 article.contato .chamada {
-  font: 300 22px 'Muli', Tahoma, sans-serif;
+  font: 300 20px 'Muli', Tahoma, sans-serif;
   margin-left: auto;
   margin-right: auto;
   max-width: 800px;
   margin-bottom: 64px;
 }
+@media (min-width: 640px) {
+  article.contato .chamada {
+    font: 300 22px 'Muli', Tahoma, sans-serif;
+  }
+}
 article.contato .chamada a {
   color: #bfe60c;
-  font: 24px 'Montserrat', Verdana, sans-serif;
+  font: 20px 'Montserrat', Verdana, sans-serif;
+}
+@media (min-width: 640px) {
+  article.contato .chamada a {
+    font: 24px 'Montserrat', Verdana, sans-serif;
+  }
 }
 article.contato .chamada a:hover {
   color: #000;
@@ -1298,18 +1354,19 @@ article .formulario form {
 footer {
   background: #000;
   color: #fff;
-  font-family: 'Montserrat', Verdana, sans-serif;
+  font-family: 'Muli', Tahoma, sans-serif;
   padding-bottom: 20px;
   padding-top: 100px;
   text-align: center;
 }
-a {
+footer a {
   margin-bottom: 36px;
 }
-a.email {
+footer a.email {
+  font-family: 'Montserrat', Verdana, sans-serif;
   position: relative;
 }
-a.email:before {
+footer a.email:before {
   background: #bfe60c;
   content: '';
   display: inline-block;
@@ -1319,11 +1376,11 @@ a.email:before {
   width: 10px;
   z-index: 0;
 }
-a.email:hover {
+footer a.email:hover {
   color: #bfe60c;
 }
-.copy {
-  font-size: 12px;
+footer .copy {
+  font: 11px Muli;
   margin-top: 50px;
 }
 .social li {
