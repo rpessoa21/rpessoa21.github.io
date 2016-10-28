@@ -886,121 +886,141 @@ article.ver-jobs .ver {
   }
 }
 .lista-jobs ul li:first-child {
-  background: url("../img/jobs/lista/leogenn.jpg") no-repeat;
+  background: url("../img/jobs/lista/rss.jpg") no-repeat;
   background-size: cover;
 }
 @media (max-width: 768px) {
   .lista-jobs ul li:first-child {
-    background: url("../img/jobs/lista/leogenn-small.jpg") no-repeat;
+    background: url("../img/jobs/lista/rss-small.jpg") no-repeat;
     background-size: cover;
   }
 }
 .lista-jobs ul li:nth-child(2) {
-  background: url("../img/jobs/lista/myplace.jpg") no-repeat;
+  background: url("../img/jobs/lista/martu.jpg") no-repeat;
   background-size: cover;
 }
 @media (max-width: 768px) {
   .lista-jobs ul li:nth-child(2) {
-    background: url("../img/jobs/lista/myplace-small.jpg") no-repeat;
+    background: url("../img/jobs/lista/martu-small.jpg") no-repeat;
     background-size: cover;
   }
 }
 .lista-jobs ul li:nth-child(3) {
-  background: url("../img/jobs/lista/accion.jpg") no-repeat;
+  background: url("../img/jobs/lista/leogenn.jpg") no-repeat;
   background-size: cover;
 }
 @media (max-width: 768px) {
   .lista-jobs ul li:nth-child(3) {
-    background: url("../img/jobs/lista/accion-small.jpg") no-repeat;
+    background: url("../img/jobs/lista/leogenn-small.jpg") no-repeat;
     background-size: cover;
   }
 }
 .lista-jobs ul li:nth-child(4) {
-  background: url("../img/jobs/lista/bibliomundi.jpg") no-repeat;
+  background: url("../img/jobs/lista/myplace.jpg") no-repeat;
   background-size: cover;
 }
 @media (max-width: 768px) {
   .lista-jobs ul li:nth-child(4) {
-    background: url("../img/jobs/lista/bibliomundi-small.jpg") no-repeat;
+    background: url("../img/jobs/lista/myplace-small.jpg") no-repeat;
     background-size: cover;
   }
 }
 .lista-jobs ul li:nth-child(5) {
-  background: url("../img/jobs/lista/analuciajuca.jpg") no-repeat;
+  background: url("../img/jobs/lista/accion.jpg") no-repeat;
   background-size: cover;
 }
 @media (max-width: 768px) {
   .lista-jobs ul li:nth-child(5) {
-    background: url("../img/jobs/lista/analuciajuca-small.jpg") no-repeat;
+    background: url("../img/jobs/lista/accion-small.jpg") no-repeat;
     background-size: cover;
   }
 }
 .lista-jobs ul li:nth-child(6) {
-  background: url("../img/jobs/lista/corporeum.jpg") no-repeat;
+  background: url("../img/jobs/lista/bibliomundi.jpg") no-repeat;
   background-size: cover;
 }
 @media (max-width: 768px) {
   .lista-jobs ul li:nth-child(6) {
-    background: url("../img/jobs/lista/corporeum-small.jpg") no-repeat;
+    background: url("../img/jobs/lista/bibliomundi-small.jpg") no-repeat;
     background-size: cover;
   }
 }
 .lista-jobs ul li:nth-child(7) {
-  background: url("../img/jobs/lista/zipper.jpg") no-repeat;
+  background: url("../img/jobs/lista/analuciajuca.jpg") no-repeat;
   background-size: cover;
 }
 @media (max-width: 768px) {
   .lista-jobs ul li:nth-child(7) {
-    background: url("../img/jobs/lista/zipper-small.jpg") no-repeat;
+    background: url("../img/jobs/lista/analuciajuca-small.jpg") no-repeat;
     background-size: cover;
   }
 }
 .lista-jobs ul li:nth-child(8) {
-  background: url("../img/jobs/lista/lukreimer.jpg") no-repeat;
+  background: url("../img/jobs/lista/corporeum.jpg") no-repeat;
   background-size: cover;
 }
 @media (max-width: 768px) {
   .lista-jobs ul li:nth-child(8) {
-    background: url("../img/jobs/lista/lukreimer-small.jpg") no-repeat;
+    background: url("../img/jobs/lista/corporeum-small.jpg") no-repeat;
     background-size: cover;
   }
 }
 .lista-jobs ul li:nth-child(9) {
-  background: url("../img/jobs/lista/buddemeyer.jpg") no-repeat;
+  background: url("../img/jobs/lista/zipper.jpg") no-repeat;
   background-size: cover;
 }
 @media (max-width: 768px) {
   .lista-jobs ul li:nth-child(9) {
-    background: url("../img/jobs/lista/buddemeyer-small.jpg") no-repeat;
+    background: url("../img/jobs/lista/zipper-small.jpg") no-repeat;
     background-size: cover;
   }
 }
 .lista-jobs ul li:nth-child(10) {
-  background: url("../img/jobs/lista/indiodacosta.jpg") no-repeat;
+  background: url("../img/jobs/lista/lukreimer.jpg") no-repeat;
   background-size: cover;
 }
 @media (max-width: 768px) {
   .lista-jobs ul li:nth-child(10) {
-    background: url("../img/jobs/lista/indiodacosta-small.jpg") no-repeat;
+    background: url("../img/jobs/lista/lukreimer-small.jpg") no-repeat;
     background-size: cover;
   }
 }
 .lista-jobs ul li:nth-child(11) {
-  background: url("../img/jobs/lista/qualifest.jpg") no-repeat;
+  background: url("../img/jobs/lista/buddemeyer.jpg") no-repeat;
   background-size: cover;
 }
 @media (max-width: 768px) {
   .lista-jobs ul li:nth-child(11) {
-    background: url("../img/jobs/lista/qualifest-small.jpg") no-repeat;
+    background: url("../img/jobs/lista/buddemeyer-small.jpg") no-repeat;
     background-size: cover;
   }
 }
 .lista-jobs ul li:nth-child(12) {
-  background: url("../img/jobs/lista/ameline.jpg") no-repeat;
+  background: url("../img/jobs/lista/indiodacosta.jpg") no-repeat;
   background-size: cover;
 }
 @media (max-width: 768px) {
   .lista-jobs ul li:nth-child(12) {
+    background: url("../img/jobs/lista/indiodacosta-small.jpg") no-repeat;
+    background-size: cover;
+  }
+}
+.lista-jobs ul li:nth-child(13) {
+  background: url("../img/jobs/lista/qualifest.jpg") no-repeat;
+  background-size: cover;
+}
+@media (max-width: 768px) {
+  .lista-jobs ul li:nth-child(13) {
+    background: url("../img/jobs/lista/qualifest-small.jpg") no-repeat;
+    background-size: cover;
+  }
+}
+.lista-jobs ul li:nth-child(14) {
+  background: url("../img/jobs/lista/ameline.jpg") no-repeat;
+  background-size: cover;
+}
+@media (max-width: 768px) {
+  .lista-jobs ul li:nth-child(14) {
     background: url("../img/jobs/lista/ameline-small.jpg") no-repeat;
     background-size: cover;
   }
@@ -1201,6 +1221,28 @@ article.laptop ul li figure figcaption img {
 }
 .title-job {
   margin-bottom: 0;
+}
+article#rss .destaque figure {
+  background: url("../img/jobs/telas/rss/destaque.jpg");
+  background-size: cover;
+  height: 55vw;
+}
+@media (max-width: 768px) {
+  article#rss .destaque figure {
+    background: url("../img/jobs/telas/rss/destaque-small.jpg");
+    background-size: cover;
+  }
+}
+article#martu .destaque figure {
+  background: url("../img/jobs/telas/martu/destaque.jpg");
+  background-size: cover;
+  height: 55vw;
+}
+@media (max-width: 768px) {
+  article#martu .destaque figure {
+    background: url("../img/jobs/telas/martu/destaque-small.jpg");
+    background-size: cover;
+  }
 }
 article#accion .destaque figure {
   background: url("../img/jobs/telas/accion/destaque.jpg");
