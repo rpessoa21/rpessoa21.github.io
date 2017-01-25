@@ -123,6 +123,9 @@ table {
 *[class^="icon-"],
 *[class*=" icon-"] {
   font-family: icomoon;
+  speak: none;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 .icon-telephone:before {
   content: "\e900";
@@ -144,6 +147,12 @@ table {
 }
 .icon-github:before {
   content: "\eab0";
+}
+.icon-facebook:before {
+  content: "\ea91";
+}
+.icon-linkedin:before {
+  content: "\eac9";
 }
 @media (min-width: 640px) {
   .container {
