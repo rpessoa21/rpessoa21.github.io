@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>http://rpessoa.com.br/</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://rpessoa.com.br/en/</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://rpessoa.com.br/index.html</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://rpessoa.com.br/docs/rodrigoPessoa.pdf</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://rpessoa.com.br/jobs/rss/</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://rpessoa.com.br/jobs/casamarques/</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://rpessoa.com.br/jobs/espetto/</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://rpessoa.com.br/jobs/coordenadas/</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://rpessoa.com.br/jobs/indiodacosta/</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://rpessoa.com.br/jobs/accion/</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://rpessoa.com.br/en/index.html</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://rpessoa.com.br/en/jobs/rss/</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://rpessoa.com.br/en/jobs/casamarques/</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://rpessoa.com.br/en/jobs/espetto/</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://rpessoa.com.br/en/jobs/coordenadas/</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://rpessoa.com.br/en/jobs/indiodacosta/</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://rpessoa.com.br/en/jobs/accion/</loc>
+  <changefreq>monthly</changefreq>
+</url>
+</urlset>
