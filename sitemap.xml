@@ -6,71 +6,27 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
-  <loc>http://rpessoa.com.br/</loc>
+  <loc>https://rpessoa.com.br/</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://rpessoa.com.br/en/</loc>
+  <loc>https://rpessoa.com.br/index.html</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://rpessoa.com.br/index.html</loc>
+  <loc>https://rpessoa.com.br/docs/rodrigoPessoa.pdf</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://rpessoa.com.br/docs/rodrigoPessoa.pdf</loc>
+  <loc>https://rpessoa.com.br/about/</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://rpessoa.com.br/jobs/rss/</loc>
+  <loc>https://rpessoa.com.br/work/</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://rpessoa.com.br/jobs/casamarques/</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>http://rpessoa.com.br/jobs/espetto/</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>http://rpessoa.com.br/jobs/coordenadas/</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>http://rpessoa.com.br/jobs/indiodacosta/</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>http://rpessoa.com.br/jobs/accion/</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>http://rpessoa.com.br/en/index.html</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>http://rpessoa.com.br/en/jobs/rss/</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>http://rpessoa.com.br/en/jobs/casamarques/</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>http://rpessoa.com.br/en/jobs/espetto/</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>http://rpessoa.com.br/en/jobs/coordenadas/</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>http://rpessoa.com.br/en/jobs/indiodacosta/</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>http://rpessoa.com.br/en/jobs/accion/</loc>
+  <loc>https://rpessoa.com.br/contact/</loc>
   <changefreq>monthly</changefreq>
 </url>
 </urlset>
